@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Andrii</h1>
-<h3 align="center">I am a Technical Director with a strong foundation in Full-Stack PHP development and 16 years of industry experience.</h3>
+<h3 align="center">
+  I am a Technical Director with a strong foundation in Full-Stack PHP development and 16 years of industry experience.
+</h3>
+<p align="left">
+  I have led distributed teams, optimized development processes, and delivered high-performance digital platforms for agencies and product companies serving both business and consumer audiences.
+</p>
+<p align="left">
+  My focus is on scalable architecture, operational efficiency, and empowering engineering teams to deliver measurable business impact.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxcom&label=Profile%20views&color=0e75b6&style=flat" alt="oxcom" /> </p>
 
